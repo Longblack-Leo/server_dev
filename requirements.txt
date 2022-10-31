@@ -5,3 +5,4 @@ sqlparse==0.4.2
 uwsgi
 PyMySQL==1.0.2
 pylance==0.1.4
+pydantic==1.10.2
